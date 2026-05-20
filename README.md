@@ -3,6 +3,7 @@
 An end-to-end Computer Vision application built with Python that classifies crop leaf health conditions using a Convolutional Neural Network (CNN). The trained neural network model is deployed as a production-ready, interactive web tool available globally.
 
 ## 🚀 Live Demo
+Before that download test_images in your local computer
 Test the live web application here:  
 👉 **[https://plant-disease-detection-using-cnn-deep-learning.streamlit.app/](https://plant-disease-detection-using-cnn-deep-learning.streamlit.app/)**
 
