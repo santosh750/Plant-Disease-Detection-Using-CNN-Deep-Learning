@@ -1,0 +1,19 @@
+# Core scientific libraries
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.1
+scikit-learn==1.5.1
+
+# Deep learning
+tensorflow==2.15.0
+keras==2.15.0
+
+# Web app UI
+streamlit==1.37.0
+
+# Image processing
+Pillow==10.4.0
+opencv-python==4.10.0.84
+
+# Optional but useful
+seaborn==0.13.2
